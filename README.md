@@ -1,6 +1,6 @@
 # Cybersecurity Portofolio
 
-I have always been fascinated by networks and the internet and have always wanted to be a part of it, although I know that with great knowledge comes great responsibility. So, I have always been keen on learning how to use the internet well and how to protect my privacy and data, in addition, to my love for open-source specifically "Linux", so, the wait had finally come to an end with Google’s specialization track in cybersecurity and I have put my skills to use  with learning cybersecurity and networks. Additionally, Having a consciousness like mine that always makes me do the right thing will help me greatly with cybersecurity ethics, in addition to my interest in programming and learning makes me a great caliber in the cybersecurity field.
+I have always been fascinated by networks and the internet and have always wanted to be a part of it, I know that with great knowledge comes great responsibility. So, I have always been keen on learning how to use the internet well and how to protect my privacy and data, in addition, to my love for open-source specifically "Linux", so, the wait had finally come to an end with Google’s specialization track in cybersecurity and I have put my skills to use  with learning cybersecurity and networks. Additionally, Having a consciousness like mine that always makes me do the right thing will help me greatly with cybersecurity ethics, in addition to my interest in programming and learning makes me a great caliber in the cybersecurity field.
 
 ---
 
